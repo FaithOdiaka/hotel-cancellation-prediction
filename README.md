@@ -57,12 +57,3 @@ The dataset used in this project can be downloaded [here](https://raw.githubuser
 
 This project provides insights into factors influencing hotel booking cancellations and delivers predictive models for advanced cancellation prediction. The models can assist in formulating profitable policies for cancellations and refunds to optimize revenue.
 
-## Project Structure
-
-- **notebooks/:** Jupyter notebooks for data analysis and modeling.
-- **data/:** Dataset files.
-- **src/:** Custom Python scripts or functions.
-- **models/:** Trained machine learning models.
-- **requirements.txt:** Python package dependencies.
-- **LICENSE:** Project license.
-
